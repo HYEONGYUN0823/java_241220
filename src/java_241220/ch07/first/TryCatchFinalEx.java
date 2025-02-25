@@ -15,7 +15,7 @@ public class TryCatchFinalEx {
 		
 	}
 	
-	public void abc () throws InterruptedException {
+	public void abc() throws InterruptedException {
 		Toolkit toolkit = Toolkit.getDefaultToolkit();
 		
 		for (int i = 0; i < 5; i++) {
